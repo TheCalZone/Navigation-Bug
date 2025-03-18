@@ -1,0 +1,17 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# OS generated files
+.DS_Store
+*.meta
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
